@@ -1,2 +1,4 @@
 # what_REALY_happen
-What happens when we send "google.com"
+
+> **Что происходит, когда мы вводим google.com**
+
